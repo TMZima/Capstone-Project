@@ -1,4 +1,4 @@
-## Currently in STEP 3: Plan Frontend Specifications
+## Currently in STEP 4: Plan Database Model
 
 ## Capstone Project
 
