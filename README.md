@@ -1,4 +1,4 @@
-## Currently in STEP 4: Plan Database Model
+## Currently in STEP 5: Plan API Specifications
 
 ## Capstone Project
 
