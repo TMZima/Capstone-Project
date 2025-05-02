@@ -1,4 +1,4 @@
-## Currently in STEP 5: Plan API Specifications
+## Currently in STEP 6: Build and Document
 
 ## Capstone Project
 
